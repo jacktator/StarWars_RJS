@@ -5,12 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Plan
 
 [x] Create React App
-[ ] Redux
 [ ] Folder Structure
    [x] Components
    [x] Pages
-   [ ] Containers
-      [ ] Providers
+   [ ] Containers (Redux)
+      [x] Providers
+        [x] Reducer
       [ ] Consumers
 [ ] Routing
 ## Available Scripts
