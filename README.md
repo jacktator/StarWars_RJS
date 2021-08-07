@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Plan
 
-[ ] Create React App
+[x] Create React App
 [ ] Redux
 [ ] Folder Structure
-   [ ] Components
-   [ ] Pages
+   [x] Components
+   [x] Pages
    [ ] Containers
       [ ] Providers
       [ ] Consumers
