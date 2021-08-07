@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Plan
 
 [x] Create React App
-[ ] Folder Structure
+[x] Folder Structure
    [x] Components
    [x] Pages
    [ ] Containers 
