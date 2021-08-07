@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
         [x] Reducer
         [x] Store
         [x] Dispatch
-      [ ] Consumers
+      [x] Consumers
 [ ] Routing
 ## Available Scripts
 
