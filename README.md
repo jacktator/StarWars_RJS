@@ -8,9 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [ ] Folder Structure
    [x] Components
    [x] Pages
-   [ ] Containers (Redux)
-      [x] Providers
+   [ ] Containers 
+      [x] Providers (Redux)
         [x] Reducer
+        [x] Store
+        [x] Dispatch
       [ ] Consumers
 [ ] Routing
 ## Available Scripts
